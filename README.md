@@ -1,2 +1,2 @@
-# Weight-Tracker-Android-Applicaiton
-Weight Tracking Android Applicaiton 
+# Weight-Tracker-Android-Application
+Weight Tracking Android Application 
