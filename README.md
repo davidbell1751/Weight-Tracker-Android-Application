@@ -10,3 +10,21 @@ This is a minimal design since it is only used by my parents and myself.  I plan
 **Splash Page**
 
 ![Alt text](https://github.com/davidbell1751/Weight-Tracker-Android-Application/blob/master/weightTrackerSplash.JPG?raw=true "Splash Page")
+
+**Register Page**
+
+![Alt text](https://github.com/davidbell1751/Weight-Tracker-Android-Application/blob/master/registerPage.JPG?raw=true "Registration Page")
+
+**Set Goal Page**
+
+![Alt text](https://github.com/davidbell1751/Weight-Tracker-Android-Application/blob/master/setGoalPage.JPG?raw=true "Set Goals Page")
+
+**User Data Page**
+
+![Alt text](https://github.com/davidbell1751/Weight-Tracker-Android-Application/blob/master/Weight%20Data%20Page.JPG?raw=true "User Data page")
+
+**Example Java Code for Database**
+
+![Alt text](https://github.com/davidbell1751/Weight-Tracker-Android-Application/blob/master/databaseJavaCode.JPG?raw=true "Java Code Example")
+
+
